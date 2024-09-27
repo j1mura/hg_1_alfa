@@ -1,5 +1,5 @@
 # Tipo de usuario
-- [❌] Alfa
+- [check] Alfa
 - [ .] Bravo 
 - [ ] Charlie
 - [ ] Delta
